@@ -22,10 +22,10 @@ Typing SVG
 🛡️ ASSINATURA DIGITAL DO OPERADOR
 {
   "nome": "Felipe Xavier",
-  "nick": "fxavier-sec",
+  "nick": "felipe-xavier-cyber",
   "area": "Segurança da Informação / Infraestrutura",
   "especialidades": ["DFIR", "ZFS/Proxmox", "Windows/Linux"],
-  "status": "DISponível para novos projetos",
+  "status": "Disponível para novos projetos",
   "clearance": "TOP SECRET"
 }
 </div>
@@ -36,7 +36,7 @@ class FelipeXavier:
     def __init__(self):
         self.nome = "Felipe Xavier"
         self.role = "Security Analyst & Infrastructure"
-        self.linkedin = "linkedin.com/in/SEU-LINKEDIN"
+        self.linkedin = "https://www.linkedin.com/in/felipe-vieira-0338b329a/"
         self.foco_atual = [
             "Resposta a Incidentes (DFIR)",
             "Recuperação de dados em ZFS",
@@ -71,7 +71,6 @@ PowerShell
 SQL
 
 🖥️ Plataformas & Serviços
-Proxmox
 ZFS
 TrueNAS
 WSL2
