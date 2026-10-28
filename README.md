@@ -184,16 +184,9 @@ $ █
 <a href="https://www.linkedin.com/in/felipe-vieira-0338b329a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<!-- TODO: substituir SEU_INSTAGRAM_AQUI pela URL real do perfil e descomentar
-<a href="https://instagram.com/SEU_INSTAGRAM_AQUI">
+<a href="https://www.instagram.com/crvg.xavier/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
--->
-<!-- TODO: substituir SEU_TELEGRAM_AQUI pela URL real do perfil e descomentar
-<a href="https://t.me/SEU_TELEGRAM_AQUI">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
--->
 
 <br><br>
 
